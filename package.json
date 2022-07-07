@@ -1,0 +1,18 @@
+{
+  "name": "cars_service_backend_project",
+  "version": "1.0.0",
+  "description": "this is the the website of car servicing center with backend logic",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Shaikh Tohid",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.6"
+  }
+}
